@@ -124,6 +124,14 @@ Running `model.py` produces the following plots:
 - K-Means Davies-Bouldin Index
 - Q-Learning Convergence Curve
 
+  <img width="634" height="486" alt="image" src="https://github.com/user-attachments/assets/6da1b142-f88a-448c-ad04-ba2fbd2ec73f" />
+<img width="623" height="466" alt="image" src="https://github.com/user-attachments/assets/befa0b14-454c-4473-a0cf-c0b42ad26b61" />
+<img width="605" height="468" alt="image" src="https://github.com/user-attachments/assets/3fe821dc-6b0b-4694-a229-748a65676f28" />
+<img width="615" height="467" alt="image" src="https://github.com/user-attachments/assets/b01cab20-50e3-4612-89bd-86d4428c59a3" />
+<img width="609" height="446" alt="image" src="https://github.com/user-attachments/assets/4c3d56a5-4b12-4795-84b6-5ae5ea1afe06" />
+<img width="616" height="457" alt="image" src="https://github.com/user-attachments/assets/14f8bbba-9a1f-4a51-b6b4-304a63bec792" />
+
+
 ---
 
 ## 📄 License
